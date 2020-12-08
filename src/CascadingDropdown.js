@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom';
 import 'antd/dist/antd.css';
 import { Menu, Dropdown, Button } from 'antd';
 import { DownOutlined } from '@ant-design/icons';
-import CV1 from './graphs/CV1';
 const { SubMenu } = Menu;
 
 const menu = (

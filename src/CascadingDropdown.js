@@ -1,9 +1,9 @@
-import React from 'react';
+import React, { Fragment } from 'react';
 import ReactDOM from 'react-dom';
 import 'antd/dist/antd.css';
 import { Menu, Dropdown, Button } from 'antd';
 import { DownOutlined } from '@ant-design/icons';
-
+import CV1 from './graphs/CV1';
 const { SubMenu } = Menu;
 
 const menu = (
@@ -148,12 +148,19 @@ const menu = (
 
 const CascadingDropdown = () => {
     return (
-        <Dropdown overlay={menu}>
-            <Button>
-                Select a network
-                <DownOutlined />
-            </Button>
-        </Dropdown>
+        <Fragment>
+            <Dropdown overlay={menu}>
+                <Button>
+                    Select a network
+                    <DownOutlined />
+                </Button>
+            </Dropdown>
+
+            <a href="/CT1.html" target="_blank">
+   a
+  </a>
+
+        </Fragment>
     );
 };
 

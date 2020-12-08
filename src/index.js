@@ -1,11 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
+import CascadingDropdown from './CascadingDropdown';
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
+    <React.StrictMode>
+        <CascadingDropdown />
+    </React.StrictMode>,
+    document.getElementById('root')
 );
-

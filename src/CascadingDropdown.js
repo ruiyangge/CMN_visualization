@@ -454,10 +454,6 @@ const CascadingDropdown = () => {
                     <DownOutlined />
                 </Button>
             </Dropdown>
-
-            <a href="/CT1.html" target="_blank">
-                a
-            </a>
         </Fragment>
     );
 };

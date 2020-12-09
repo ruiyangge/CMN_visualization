@@ -3,4 +3,4 @@ A visualization page to show the cortical morphological networks (CMNs), which w
 
 A manuscript is under consideration: R. Ge, X. Liu, D. Long, S. Frangou, and F. Vila-Rodriguez, Sex Effects on Cortical Morphological Networks on Healthy Young Adults.
 
-Take a look at the dashboard [here]().
+Take a look at the dashboard [here](http://ruiyangge.github.io/CMN_visualization/).

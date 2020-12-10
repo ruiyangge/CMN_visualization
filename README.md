@@ -5,4 +5,4 @@ A manuscript is under consideration: "R. Ge, X. Liu, D. Long, S. Frangou, and F.
 
 Take a look at the dashboard [here](http://ruiyangge.github.io/CMN_visualization/).
 
-p.s. Special thanks to the [SIMEXP group](https://simexp.github.io/lab-website/) for sharing their [Brainsprite library](https://brainsprite.github.io/index.html).
+Special thanks to the [SIMEXP group](https://simexp.github.io/lab-website/) for sharing their [Brainsprite library](https://brainsprite.github.io/index.html).

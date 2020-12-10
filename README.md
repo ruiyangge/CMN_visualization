@@ -3,6 +3,6 @@ A visualization page to show the cortical morphological networks (CMNs), which w
 
 A manuscript is under consideration: "Ruiyang Ge, Xiang Liu, David Long, Sophia Frangou, Fidel Vila-Rodriguez, Sex Effects on Cortical Morphological Networks on Healthy Young Adults".
 
-Take a look at the dashboard page [here](http://ruiyangge.github.io/CMN_visualization/).
+# Take a look at the dashboard page [here](http://ruiyangge.github.io/CMN_visualization/).
 
 Special thanks to the [SIMEXP group](https://simexp.github.io/lab-website/) for sharing their [Brainsprite library](https://brainsprite.github.io/index.html).

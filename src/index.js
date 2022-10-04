@@ -28,7 +28,7 @@ ReactDOM.render(
             </Col>
         </Row>
         <Row justify="center" style={{marginTop:'20px'}}>
-            <Image width={600} src="https://s3.ax1x.com/2020/12/10/rPscmF.jpg" />
+            <Image width={600} src="https://github.com/ruiyangge/CMN_visualization/blob/master/src/brain.jpg" />
         </Row>
     </React.StrictMode>,
     document.getElementById('root')
